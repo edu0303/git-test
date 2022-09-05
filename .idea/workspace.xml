@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c022af8-5c52-4d69-8de8-60df9eb1bd4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git-exe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/popup" afterDir="false" />
-    </list>
+    <list default="true" id="9c022af8-5c52-4d69-8de8-60df9eb1bd4d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662078394550</updated>
       <workItem from="1662078395764" duration="1246000" />
-      <workItem from="1662341301380" duration="714000" />
+      <workItem from="1662341301380" duration="1401000" />
     </task>
     <servers />
   </component>
@@ -53,7 +47,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
